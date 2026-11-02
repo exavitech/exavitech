@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.exavitech.com"><img src="https://img.shields.io/badge/exavitech.com-24ACE3?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/company/exavitech/"><img src="https://img.shields.io/badge/LinkedIn-10141F?style=flat-square&logo=linkedin&logoColor=24ACE3" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/company/exavitech/"><img src="https://img.shields.io/badge/LinkedIn-10141F?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzI0QUNFMyIgZD0iTTQgOWgzdjExSDR6TTUuNSA0YTEuNzUgMS43NSAwIDEgMSAwIDMuNUExLjc1IDEuNzUgMCAwIDEgNS41IDR6TTEwIDloMi45djEuNWguMDRjLjQtLjc2IDEuMzgtMS41NiAyLjg0LTEuNTZDMTguOCA4Ljk0IDIwIDEwLjkgMjAgMTMuNlYyMGgtM3YtNS43YzAtMS4zNi0uMDMtMy4xLTEuOS0zLjEtMS45IDAtMi4yIDEuNDgtMi4yIDN2NS44SDEweiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn"></a>
   <a href="https://www.youtube.com/@Exavitech"><img src="https://img.shields.io/badge/YouTube-10141F?style=flat-square&logo=youtube&logoColor=24ACE3" alt="YouTube"></a>
   <a href="https://x.com/exavitech"><img src="https://img.shields.io/badge/X-10141F?style=flat-square&logo=x&logoColor=24ACE3" alt="X"></a>
   <a href="https://www.instagram.com/exavitech/"><img src="https://img.shields.io/badge/Instagram-10141F?style=flat-square&logo=instagram&logoColor=24ACE3" alt="Instagram"></a>
